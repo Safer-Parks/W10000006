@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "W10000006_lut",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"region_id":"W10000006","reg_name_e":"Mid and West Wales","reg_name_w":"Canolbarth a Gorllewin Cymru","authority_id":"W06000023","auth_name_e":"Powys","auth_name_w":"Powys","country":"Wales","absolute_filepath":"Wales/W10000006/W06000023"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"W10000006","reg_name_e":"Mid and West Wales","reg_name_w":"Canolbarth a Gorllewin Cymru","authority_id":"W06000010","auth_name_e":"Carmarthenshire","auth_name_w":"Sir Gaerfyrddin","country":"Wales","absolute_filepath":"Wales/W10000006/W06000010"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"W10000006","reg_name_e":"Mid and West Wales","reg_name_w":"Canolbarth a Gorllewin Cymru","authority_id":"W06000008","auth_name_e":"Ceredigion","auth_name_w":"Sir Ceredigion","country":"Wales","absolute_filepath":"Wales/W10000006/W06000008"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"W10000006","reg_name_e":"Mid and West Wales","reg_name_w":"Canolbarth a Gorllewin Cymru","authority_id":"W06000009","auth_name_e":"Pembrokeshire","auth_name_w":"Sir Benfro","country":"Wales","absolute_filepath":"Wales/W10000006/W06000009"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"W10000006","reg_name_e":"Mid and West Wales","reg_name_w":"Canolbarth a Gorllewin Cymru","authority_id":"W06000002","auth_name_e":"Gwynedd","auth_name_w":"Gwynedd","country":"Wales","absolute_filepath":"Wales/W10000006/W06000002"},"geometry":null}
+]
+}
