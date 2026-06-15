@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PEMBR_18_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Neyland Marina", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 36, "park_offical_id": "PEMBR_18" }, "geometry": { "type": "Point", "coordinates": [ -4.94436264, 51.707765294 ] } }
+]
+}

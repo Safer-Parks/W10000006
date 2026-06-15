@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CARMA_389_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tesco Extra", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 61, "park_offical_id": "CARMA_389" }, "geometry": { "type": "Point", "coordinates": [ -4.137747288, 51.677129226 ] } }
+]
+}

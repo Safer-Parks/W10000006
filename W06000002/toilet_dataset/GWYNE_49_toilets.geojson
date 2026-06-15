@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "GWYNE_49_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dunelm", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 117, "park_offical_id": "GWYNE_49" }, "geometry": { "type": "Point", "coordinates": [ -4.146697938, 53.212681728 ] } },
+{ "type": "Feature", "properties": { "name": "Aldi", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-22:00", "Tue": "08:00-22:00", "Wed": "08:00-22:00", "Thu": "08:00-22:00", "Fri": "08:00-22:00", "Sat": "08:00-22:00", "Sun": "11:00-16:00", "index_right": 117, "park_offical_id": "GWYNE_49" }, "geometry": { "type": "Point", "coordinates": [ -4.147730539, 53.212027667 ] } }
+]
+}

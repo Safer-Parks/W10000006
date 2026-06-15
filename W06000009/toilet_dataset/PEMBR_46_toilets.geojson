@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "PEMBR_46_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tourist Information centre", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 81, "park_offical_id": "PEMBR_46" }, "geometry": { "type": "Point", "coordinates": [ -4.917884273, 51.674906157 ] } },
+{ "type": "Feature", "properties": { "name": "Council Toilets", "payment_info": "Free", "accessible": "Unknown", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 81, "park_offical_id": "PEMBR_46" }, "geometry": { "type": "Point", "coordinates": [ -4.918597341, 51.676796249 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "GWYNE_26_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lower Garth Road Bangor by pier", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:30", "Tue": "09:00-17:30", "Wed": "09:00-17:30", "Thu": "09:00-17:30", "Fri": "09:00-17:30", "Sat": "09:00-17:30", "Sun": "09:00-17:30", "index_right": 37, "park_offical_id": "GWYNE_26" }, "geometry": { "type": "Point", "coordinates": [ -4.1220288, 53.2367666 ] } }
+]
+}
