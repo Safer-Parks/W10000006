@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CARMA_45_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.0483707,51.7922186],[-4.0473468,51.7922995],[-4.0458985,51.7924123],[-4.0457108,51.7924512],[-4.0451833,51.7925038],[-4.0450222,51.7925218],[-4.0435105,51.7932339],[-4.0432276,51.7932774]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.0464476,51.7963966],[-4.0465173,51.7963742],[-4.0465337,51.7963369]]]}}
+]
+}

@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "POWYS_143_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Derwas Bridge","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0702542,52.7335145],[-3.0702515,52.7336046]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0713227,52.7245663],[-3.0711242,52.7247216]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0655187,52.7211829],[-3.0662734,52.721314],[-3.0664035,52.7213583],[-3.0665885,52.7214704],[-3.0667694,52.7216169],[-3.0669422,52.7218003],[-3.0670133,52.7219235],[-3.0673528,52.7224147],[-3.0674198,52.7226794],[-3.067428,52.7229269],[-3.067308,52.7230537],[-3.0670743,52.7231793],[-3.0669848,52.7232408],[-3.0667856,52.723444],[-3.0665597,52.7235434]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0676678,52.7230734],[-3.0677959,52.7233652],[-3.0679158,52.7238305],[-3.0680053,52.7240509],[-3.068115,52.7243747],[-3.0681293,52.7246],[-3.0678427,52.7244941],[-3.0676699,52.7244646],[-3.0674077,52.7243353],[-3.0672084,52.7242011],[-3.0669361,52.7240669],[-3.0668812,52.7240226],[-3.0668141,52.7238638],[-3.0667755,52.7237641],[-3.0665597,52.7235434],[-3.0663547,52.7233959],[-3.066003,52.723226],[-3.065755,52.7231288],[-3.0654298,52.7230894],[-3.0651737,52.7230869],[-3.0645049,52.7229576],[-3.0642777,52.7230108]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0674198,52.7226794],[-3.067613,52.7229872]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0702515,52.7336046],[-3.0702573,52.7336786],[-3.0702929,52.7337239],[-3.0703234,52.7337954],[-3.0701701,52.7339081]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0702378,52.733453],[-3.0702547,52.7334973]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0702378,52.733453],[-3.0702088,52.7333552],[-3.0699164,52.7332788],[-3.069836,52.7331391]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0702088,52.7333552],[-3.0701526,52.7331931]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0752429,52.7216125],[-3.0751276,52.7215507],[-3.0749398,52.7215004],[-3.0742934,52.7217148],[-3.073757,52.7218139],[-3.0736712,52.7221372],[-3.0733949,52.7224296]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0702547,52.7334973],[-3.0702542,52.7335145]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0695253,52.7265161],[-3.0696359,52.7265949],[-3.0697462,52.7266383],[-3.0700546,52.7266971],[-3.070205,52.7267549]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0695026,52.7295913],[-3.0694924,52.7295433],[-3.069594,52.7293106],[-3.0695554,52.7291839]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0713227,52.7245663],[-3.0708962,52.724113]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Rhyd Esgyn Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0692703,52.7267513],[-3.0690253,52.726965],[-3.0686602,52.7273385],[-3.0680829,52.7276896]]]}}
+]
+}

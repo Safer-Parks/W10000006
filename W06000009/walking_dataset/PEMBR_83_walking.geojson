@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "PEMBR_83_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.9561474,51.7178156],[-4.9561584,51.7178385],[-4.9561664,51.7178607],[-4.9561693,51.7178889],[-4.9561641,51.7179164],[-4.9561516,51.7179454],[-4.9561349,51.7179869],[-4.9561771,51.7180208],[-4.9562154,51.7180466],[-4.9562782,51.7180865]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.9558901,51.7184812],[-4.9559605,51.7184737],[-4.95596,51.7184382],[-4.9559713,51.7183919],[-4.9559896,51.7183512],[-4.9560297,51.7183032],[-4.9561867,51.7181423],[-4.9562339,51.7181097],[-4.9562782,51.7180865]]]}}
+]
+}

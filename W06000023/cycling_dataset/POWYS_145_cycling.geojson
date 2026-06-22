@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "POWYS_145_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0863267,52.7569793],[-3.0865796,52.7567465],[-3.0867901,52.7563486],[-3.0870529,52.7558947],[-3.0870842,52.7559021]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0871862,52.7559271],[-3.0872342,52.7559383],[-3.0872808,52.7559268],[-3.0873211,52.755894],[-3.0874673,52.7554888]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0819284,52.7458907],[-3.0817479,52.7456807],[-3.0817621,52.7455779],[-3.0826131,52.7451641],[-3.082661,52.7451408],[-3.0826221,52.7450251],[-3.0823956,52.7445387],[-3.0824168,52.7442602],[-3.0823462,52.744017],[-3.0822363,52.743731]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0878134,52.7552666],[-3.0879325,52.7552312],[-3.0880614,52.7552483]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0870842,52.7559021],[-3.0871336,52.7559138],[-3.0871862,52.7559271]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0873884,52.755464],[-3.0874407,52.7554805],[-3.0874673,52.7554888]]]}}
+]
+}

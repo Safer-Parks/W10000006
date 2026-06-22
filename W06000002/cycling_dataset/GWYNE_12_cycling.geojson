@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "GWYNE_12_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.2693177,53.1141753],[-4.2693445,53.1141093],[-4.2693619,53.1140409],[-4.26937,53.1139894],[-4.2693633,53.1139564],[-4.2693405,53.1139347],[-4.2693083,53.1139202],[-4.2692761,53.1139153],[-4.2691514,53.1139089]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.2684138,53.1148306],[-4.2684447,53.1149091]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.2682511,53.1144981],[-4.2683038,53.1147469],[-4.2683977,53.1147984]]]}}
+]
+}

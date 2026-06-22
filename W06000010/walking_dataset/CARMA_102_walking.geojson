@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "CARMA_102_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.8658246,51.7077248],[-3.8657776,51.7076776],[-3.8656776,51.707483]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.8619805,51.7114177],[-3.8612418,51.7121341],[-3.858701,51.7143068],[-3.857097,51.7152009],[-3.8562203,51.7158797],[-3.8558941,51.7161523],[-3.855595,51.7164439],[-3.8551207,51.7167526]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.8563738,51.7190839],[-3.8563945,51.7188157],[-3.8565182,51.7184175],[-3.8568309,51.7179002],[-3.8577003,51.7169655],[-3.8583636,51.7163076],[-3.8589753,51.7155475],[-3.8594977,51.7151259],[-3.8600434,51.714701],[-3.8606426,51.7141882],[-3.8610304,51.7137568],[-3.8613878,51.713595],[-3.8616537,51.7134809],[-3.8618895,51.7133501],[-3.8625201,51.7130364]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.8650038,51.7113678],[-3.8647454,51.7111517]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.8672527,51.7100608],[-3.8669354,51.7103373]]]}}
+]
+}

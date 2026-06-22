@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "GWYNE_499_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.2090672,53.1402353],[-4.209719,53.1397848],[-4.2103224,53.1393327],[-4.2103699,53.1393055],[-4.2104509,53.1392619]]]}}
+]
+}

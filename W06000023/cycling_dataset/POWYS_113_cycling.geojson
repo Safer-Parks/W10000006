@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "POWYS_113_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1198382,52.5449058],[-3.1199403,52.54529]]]}}
+]
+}

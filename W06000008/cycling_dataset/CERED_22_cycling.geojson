@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CERED_22_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.0809599,52.387363],[-4.0808712,52.3873528],[-4.0807453,52.3872655]]]}}
+]
+}
