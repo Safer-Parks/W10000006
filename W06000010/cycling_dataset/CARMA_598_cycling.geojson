@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CARMA_598_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.5423171,52.127104],[-4.5425109,52.1271025],[-4.5427491,52.1271484],[-4.5429172,52.1272416],[-4.543076,52.127329],[-4.5431087,52.1273462]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.5431087,52.1273462],[-4.5427586,52.1277989]]]}}
+]
+}

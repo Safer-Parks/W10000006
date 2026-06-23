@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "CARMA_591_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.7145515,51.7275227],[-4.7145735,51.7275803],[-4.7144432,51.7277849],[-4.7143617,51.7279471],[-4.7142478,51.728242]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.7142478,51.728242],[-4.7142197,51.7284856]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.7142197,51.7284856],[-4.7142252,51.728544],[-4.7142303,51.7286091]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.7150433,51.7327212],[-4.7153372,51.7330799],[-4.7153763,51.7330907],[-4.7155664,51.7331323]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.7145765,51.732656],[-4.7146418,51.7326022]]]}}
+]
+}
