@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "GWYNE_0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1921944627, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.9661128, 52.6390968 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1942644295, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.9661792, 52.6391512 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1921944636, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.9658443, 52.6392976 ] } }
+]
+}
