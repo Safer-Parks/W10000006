@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "POWYS_169",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13953660401, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.0520339, 52.3462126 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13953660501, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.0518834, 52.3465008 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13953660601, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.051855, 52.3466932 ] } }
+]
+}

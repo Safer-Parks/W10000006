@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "PEMBR_35",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12206696376, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.7006387, 51.6727998 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12206696375, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.7006727, 51.6728262 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12206696374, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.7007061, 51.6728512 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12206696373, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.700736, 51.6728744 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CARMA_628",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8116835331, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.7035811, 52.0683257 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8116835332, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.7034915, 52.068335 ] } }
+]
+}

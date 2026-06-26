@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "POWYS_78",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13668753411, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4547768, 52.7602351 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13668745786, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4548824, 52.7603509 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13668736476, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4548179, 52.7607063 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13668675671, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4548662, 52.7607389 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13668735371, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4555822, 52.7607924 ] } }
+]
+}
