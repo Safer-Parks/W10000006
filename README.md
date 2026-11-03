@@ -1,14 +1,16 @@
 # Safer Parks data: `Mid and West Wales` (`W10000006`)
 
+[![Zenodo doi](https://zenodo.org/badge/1269552915.svg)](https://doi.org/10.5281/zenodo.23922843)
+
 Regional dataset for the [Safer Parks Dashboard](https://safer-parks.github.io/), covering parks in Mid and West Wales (England/Wales). The data in this repository is loaded directly by the dashboard from `https://raw.githubusercontent.com/Safer-Parks/W10000006/refs/heads/main`.
 
 ## Citation
 
-> Francesca Pontin, Anna Barker, Melissa Barrientos-Trinanes, Victoria Houlden, Maeve Murphy Quinlan (2026): The Safer Parks Dashboard Data: Mid and West Wales, (Version V0.1.0). University of Leeds. DOI HERE. Accessed: *Insert today's date*.
+> Francesca Pontin, Anna Barker, Melissa Barrientos-Trinanes, Victoria Houlden, Maeve Murphy Quinlan (2026): The Safer Parks Dashboard Data: Mid and West Wales, (Version V0.1.0). University of Leeds. 10.5281/zenodo.23922843. Accessed: *Insert today's date*.
 
 | Field | Value |
 |------------------------------------|------------------------------------|
-| DOI | `[DOI – pending Zenodo release]` |
+| DOI | 10.5281/zenodo.23922843 |
 | Version | V0.1.0 |
 | Release date | 01-11-2026 |
 | Authors / creators | Francesca Pontin, Anna Barker, Melissa Barrientos, Victoria Houlden, Maeve Murphy Quinlan |
