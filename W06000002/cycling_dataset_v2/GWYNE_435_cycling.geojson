@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "GWYNE_435_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 157571219, "highway": "primary", "name": null, "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.130955, 53.1247227 ], [ -4.1306052, 53.1246745 ], [ -4.1302155, 53.1246252 ], [ -4.1298921, 53.1245417 ], [ -4.1295891, 53.1244482 ], [ -4.1293066, 53.1243387 ], [ -4.1288977, 53.124152 ], [ -4.1286581, 53.124023 ], [ -4.1283557, 53.1238397 ], [ -4.1279859, 53.1235676 ], [ -4.1278038, 53.1234022 ], [ -4.1276374, 53.1232511 ], [ -4.1275154, 53.1231061 ], [ -4.1267505, 53.1221747 ], [ -4.1266206, 53.1220356 ], [ -4.1265482, 53.1219454 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 383963292, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.1177941, 53.1231433 ], [ -4.117746, 53.1231458 ], [ -4.1176453, 53.1232446 ], [ -4.1175718, 53.1233366 ], [ -4.1175406, 53.1233936 ], [ -4.1174896, 53.1235127 ], [ -4.1174214, 53.1235779 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1016392957, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.1331396, 53.125668 ], [ -4.1328422, 53.1255506 ], [ -4.132412, 53.1253755 ], [ -4.1318605, 53.1251864 ], [ -4.1310716, 53.1249565 ], [ -4.1309582, 53.1249058 ] ] } }
+]
+}

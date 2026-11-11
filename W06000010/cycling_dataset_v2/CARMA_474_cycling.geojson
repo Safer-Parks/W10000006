@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CARMA_474_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 900412042, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.8382975, 52.0535943 ], [ -3.8378094, 52.0534277 ], [ -3.8376887, 52.0533551 ], [ -3.8375277, 52.0533139 ], [ -3.8370664, 52.0532677 ], [ -3.8359533, 52.0531176 ], [ -3.8354812, 52.0529988 ], [ -3.8339287, 52.0525298 ], [ -3.8324696, 52.0522395 ], [ -3.832019, 52.0520943 ], [ -3.8313538, 52.0520679 ], [ -3.8306457, 52.0519228 ], [ -3.8294655, 52.0515401 ], [ -3.8285643, 52.0514345 ], [ -3.8283573, 52.0516265 ], [ -3.8269921, 52.0524211 ] ] } }
+]
+}

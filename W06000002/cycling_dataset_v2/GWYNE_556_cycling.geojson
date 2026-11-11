@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "GWYNE_556_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 368523378, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -4.1693948, 52.9070285 ], [ -4.1694343, 52.9070844 ], [ -4.1694645, 52.9071272 ], [ -4.1694645, 52.9072113 ], [ -4.1694377, 52.9072809 ], [ -4.1693921, 52.9073375 ], [ -4.1693465, 52.9074022 ], [ -4.1692541, 52.9076103 ], [ -4.1691856, 52.9077646 ], [ -4.1690032, 52.9082013 ], [ -4.1688432, 52.9085702 ], [ -4.1687028, 52.9088937 ], [ -4.1686929, 52.9089223 ], [ -4.1685788, 52.9092507 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "POWYS_191_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1409263503, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0524591, 52.2831962 ], [ -3.0537678, 52.28336 ], [ -3.0550374, 52.2835632 ], [ -3.0561453, 52.2838048 ], [ -3.05648, 52.2839466 ], [ -3.0569178, 52.2842458 ], [ -3.0572611, 52.2844926 ], [ -3.0578058, 52.2847108 ], [ -3.0582321, 52.2847895 ], [ -3.058489, 52.2847836 ], [ -3.0587291, 52.2847895 ], [ -3.0591842, 52.2847661 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PEMBR_64_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 955352718, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": "no", "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -4.7238733, 51.7457339 ], [ -4.7239293, 51.7457027 ], [ -4.7239981, 51.7456735 ], [ -4.7240819, 51.7456366 ], [ -4.7241848, 51.7455779 ], [ -4.7243523, 51.7454998 ], [ -4.7245199, 51.7454248 ], [ -4.72464, 51.7453529 ], [ -4.7247762, 51.7452617 ], [ -4.7248216, 51.7452323 ], [ -4.7248549, 51.7452179 ], [ -4.7248983, 51.7452098 ], [ -4.7249427, 51.7452142 ], [ -4.7249806, 51.7452203 ], [ -4.7250124, 51.7452254 ], [ -4.7250739, 51.7452342 ] ] } }
+]
+}

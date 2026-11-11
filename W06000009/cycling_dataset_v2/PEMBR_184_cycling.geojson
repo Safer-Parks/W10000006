@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PEMBR_184_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 66496474, "highway": "bridleway", "name": "Feidr Fain", "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -4.9991169, 51.9267675 ], [ -4.9992142, 51.9293758 ], [ -4.9992087, 51.9295206 ], [ -4.9994497, 51.9295312 ], [ -4.9994582, 51.930263 ], [ -4.9995419, 51.930915 ], [ -4.9997465, 51.9309528 ], [ -4.9999025, 51.9314788 ], [ -5.0000835, 51.9319178 ], [ -5.0001535, 51.9319844 ], [ -5.0002511, 51.9319966 ], [ -5.0005171, 51.9320191 ], [ -5.001115, 51.9320482 ], [ -5.0021418, 51.9320502 ], [ -5.0032482, 51.9338743 ], [ -5.0030371, 51.9348163 ] ] } }
+]
+}
