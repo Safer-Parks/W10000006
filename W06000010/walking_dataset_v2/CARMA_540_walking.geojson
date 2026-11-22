@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CARMA_540_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1396631929, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -4.363403, 51.8435874 ], [ -4.3637687, 51.8431703 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1396631930, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -4.3632553, 51.8439861 ], [ -4.3633319, 51.8437793 ], [ -4.3633473, 51.8437379 ], [ -4.363403, 51.8435874 ] ] } }
+]
+}

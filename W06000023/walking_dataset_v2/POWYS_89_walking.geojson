@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "POWYS_89_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1483389504, "highway": "path", "name": null, "category": "Shared path", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.2178221, 52.7475345 ], [ -3.2178952, 52.7476344 ], [ -3.2176364, 52.747737 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1003675193, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.2188278, 52.7483009 ], [ -3.2187506, 52.7482928 ], [ -3.2180598, 52.7483321 ], [ -3.2180166, 52.7483545 ], [ -3.2180195, 52.7484014 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1003680633, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.2197709, 52.754067 ], [ -3.219322, 52.754278 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1003680634, "highway": "steps", "name": null, "category": "Steps", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.219322, 52.754278 ], [ -3.2192804, 52.7543013 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1003680635, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.2192804, 52.7543013 ], [ -3.219111, 52.7543577 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1423612118, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.2175616, 52.7625343 ], [ -3.216596, 52.7621408 ], [ -3.2165085, 52.7620893 ] ] } }
+]
+}
